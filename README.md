@@ -4,7 +4,7 @@ This lab was done for the DS5559 Lab that utilizes dbt.
 
 ### Installing DBT at the command line
 
-DBT was installed in a virtual env. The requirments.txt file utilized can be found at https://github.com/hyunsukr/DS5559_dbt_lab/blob/main/requirements.txt
+DBT was installed in a virtual env. The requirments.txt file utilized can be found at https://github.com/hyunsukr/DS5559_dbt_lab/blob/main/requirments.txt
 
 
 ### Set up connection to and test Snowflake
